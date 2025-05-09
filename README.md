@@ -1,2 +1,2 @@
-# adtimp
-adtim
+# Data Structures made from scratch in python
+
